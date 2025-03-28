@@ -41,3 +41,11 @@ img {
 body {
   background-color: rgb(250, 255, 208);
 }
+
+.name {
+  font-size: 4rem;
+}
+
+.formula {
+  font-size: 4rem;
+}
