@@ -44,8 +44,12 @@ body {
 
 .name {
   font-size: 4rem;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
 }
 
 .formula {
   font-size: 4rem;
+  padding-top: 1cm;
+  padding-bottom: 1cm;
 }
